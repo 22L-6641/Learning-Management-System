@@ -1,0 +1,3 @@
+2
+MT		Differential-Equation		Hina		3		50
+CS		Digital-logic-Design		Mehmoona		3		50
